@@ -10,6 +10,9 @@ import org.junit.Test;
 import br.sceweb.model.Empresa;
 import br.sceweb.model.EmpresaDAO;
 
+/*
+ * Verificar o comportamento do sistema no cadastro de uma empresa
+ */
 
 public class UC01CadastrarEmpresa {
     static EmpresaDAO empresaDAO;
